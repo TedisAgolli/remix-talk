@@ -1,0 +1,32 @@
+# Stacks
+
+- For an actual full-stack experience
+- Pre-built stacks that include a database, authentication, CI/CD, and more
+
+Examples:
+
+_Official_
+
+- [Blues Stack](https://github.com/remix-run/blues-stack)
+  - Fly.io Deployment
+  - Fly.io PostgresSQL DB
+  - Github actions for CI/CD
+  - Prisma ORM
+  - Cookie based authentication
+  - Styling with Tailwid
+  - and more
+- [Grunge Stack](https://github.com/remix-run/grunge-stack)
+  - AWS deployment with Architect
+  - DynamoDB
+  - Github Actions for CI/CD
+  - and more
+
+_Community_
+
+- [Supa Fly Stack](https://github.com/rphlmr/supa-fly-stack)
+  - Fly.io deployment
+  - Supabase SQL DB
+  - Magic Link auth
+  - Prisma ORM
+  - Styling with Tailwind
+  - and more
